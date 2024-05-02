@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261920104547",
+    "project_id": "i20-0473",
+    "storage_bucket": "i20-0473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261920104547:android:9a0b24071c9d30b105d856",
+        "android_client_info": {
+          "package_name": "com.fazihaikhlaq.i20_0473"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVO6FpDzs2C79mEuptuygX7p3odG903Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
